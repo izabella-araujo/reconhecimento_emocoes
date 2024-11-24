@@ -24,3 +24,9 @@ Este código implementa uma aplicação de **detecção facial em tempo real**, 
    ```bash
    conda create -n deteccao_facial python=3.9
    conda activate deteccao_facial
+3. Instale as dependências:
+   ```bash
+    !pip install opencv-python==4.6.0.66
+    !pip install mediapipe
+    !pip install numpy==1.22.3
+4. Execute o código.
