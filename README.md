@@ -7,9 +7,8 @@ Este código implementa uma aplicação de **detecção facial em tempo real**, 
 - **Linguagem de Programação**: Python
 - **Editor de Texto**: VSCode
 - **Ambiente Virtual**: Anaconda
-- **Bibliotecas**:
-  - **MediaPipe**: Para detecção de pontos faciais e análise de expressões.
-  - **OpenCV**: Para captura de vídeo e processamento de imagens.
+- **Bibliotecas**: OpenCV, para captura de vídeo e processamento de imagens.
+- **Framework**: MediaPipe, para detecção de pontos faciais e análise de expressões.
 
 ## Funcionalidades
 
